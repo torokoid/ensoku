@@ -71,7 +71,7 @@ screen and (orientation: landscape) {
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 遠足の写真、 船津さん提供 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 遠足の写真、 船津さん提供、 後半はスキーの写真、宮下さん提供　!!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>>遠足写真</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
