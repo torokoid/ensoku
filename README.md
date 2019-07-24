@@ -88,9 +88,10 @@ screen and (orientation: landscape) {
 <a href="20190527_004.JPG" data-lightbox="abc"><img src="20190527_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190527_005.JPG" data-lightbox="abc"><img src="20190527_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190527_006.JPG" data-lightbox="abc"><img src="20190527_006.JPG" alt="サンプル画像" width="900" /></a>
+<br><br><br><br><br><br><br>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! 昭和51年12月25〜30日、青木湖スキーの写真、 宮下さん提供 !!!</marquee></span></h1>
-<br><br><br><br><br>
+
 <a href="19761225_001.jpg" data-lightbox="abc"><img src="19761225_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="19761225_002.jpg" data-lightbox="abc"><img src="19761225_002.jpg" alt="サンプル画像" width="900" /></a>
 
