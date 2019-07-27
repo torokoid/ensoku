@@ -94,7 +94,11 @@ screen and (orientation: landscape) {
 
 <a href="19761225_001.jpg" data-lightbox="abc"><img src="19761225_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="19761225_002.jpg" data-lightbox="abc"><img src="19761225_002.jpg" alt="サンプル画像" width="900" /></a>
+<br><br><br><br><br><br><br>
 
+<h1><span class="yellow"><marquee behavior="alternate">!!! スキー教室、上級者グループの写真、 東さん提供 !!!</marquee></span></h1>
+
+<a href="013.JPG" data-lightbox="abc"><img src="013.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
