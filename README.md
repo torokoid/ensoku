@@ -99,7 +99,7 @@ screen and (orientation: landscape) {
 <h1><span class="yellow"><marquee behavior="alternate">!!! スキー教室、上級者グループの写真、 東さん提供 !!!</marquee></span></h1>
 
 <a href="013.JPG" data-lightbox="abc"><img src="013.JPG" alt="サンプル画像" width="900" /></a>
-<h4><span class="white">左から<br>
+<h2><span class="blue">左から<br>
 東 丹沢 丸岡 金子 臨時コーチ(早大教授)  25? 島 18? 26? 佐藤 28? 小沢</span></h2>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
