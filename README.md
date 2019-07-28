@@ -100,7 +100,7 @@ screen and (orientation: landscape) {
 
 <a href="013.JPG" data-lightbox="abc"><img src="013.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue"><section>左から<br>
- 東, 丹沢, 丸岡, 金子, 臨時コーチ(早大教授),  25?, 島, 渡辺隆弘, 26?, 佐藤, 小林貴美, 小沢</section></span></h2>
+ 29東, 22丹沢, 30丸岡, 21金子, 臨時コーチ(早大教授),  25?, 20島,<br>18渡辺隆弘, 26?, 23佐藤, 28小林貴美, 24小沢</section></span></h2>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <section><span class="blue">
