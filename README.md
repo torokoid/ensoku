@@ -71,7 +71,7 @@ screen and (orientation: landscape) {
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。
 </p>
 
-<h1><span class="yellow"><marquee behavior="left">!!! 遠足の写真、 船津さん提供、 後半はスキーの写真、宮下さん、東さん提供　!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 遠足の写真、 船津さん提供、 後半はスキーの写真、宮下さん、東さん提供　!!!</marquee></span></h1>
 <p><a href="https://torokoid.github.io/home">Home</a>>遠足写真</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -90,13 +90,13 @@ screen and (orientation: landscape) {
 <a href="20190527_006.JPG" data-lightbox="abc"><img src="20190527_006.JPG" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br><br><br>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! 昭和51年12月25〜30日、青木湖スキーの写真、 宮下さん提供 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 昭和51年12月25〜30日、青木湖スキーの写真、 宮下さん提供 !!!</marquee></span></h1>
 
 <a href="19761225_001.jpg" data-lightbox="abc"><img src="19761225_001.jpg" alt="サンプル画像" width="900" /></a>
 <a href="19761225_002.jpg" data-lightbox="abc"><img src="19761225_002.jpg" alt="サンプル画像" width="900" /></a>
 <br><br><br><br><br><br><br>
 
-<h1><span class="yellow"><marquee behavior="alternate">!!! スキー教室、上級者グループの写真、 東さん提供 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! スキー教室、上級者グループの写真、 東さん提供 !!!</marquee></span></h1>
 
 <a href="013.JPG" data-lightbox="abc"><img src="013.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue"><section>左から<br>
